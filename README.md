@@ -1,6 +1,5 @@
 
 <h2> Hey there! I'm Azeddin.</h2>
-<p>I am a Full-stack Web Developer who loves what he does.</p>
 
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>

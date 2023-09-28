@@ -1,14 +1,12 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Azeddin.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Currently learning react native.
+- 💼 &nbsp; Working on some laravel and react js project.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,5 +35,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:azeddinaitwaalla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:azeddinaitwaalla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azeddinaitwaalla@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

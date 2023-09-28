@@ -1,5 +1,9 @@
 
-<h2> Hey there! I'm Azeddin.</h2>
+<h2> Hey there! I'm Azeddin.</h2>¡
+
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 

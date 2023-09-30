@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Currently learning react native.
+- 🎓 &nbsp; Currently learning Next js.
 - 💼 &nbsp; Working on some laravel and react js project.
 
 

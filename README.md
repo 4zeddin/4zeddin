@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently learning Next js.
-- 💼 &nbsp; Working on some laravel and react js project.
+- 💼 &nbsp; Working on some laravel and react js projects.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

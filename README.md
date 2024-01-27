@@ -1,14 +1,12 @@
 
 <h2> Hey there! I'm Azeddin.</h2>
 
-
+<p>a passionate software developer who loves what I do. Currently pursuing a Bachelor's degree in Computer Science, I am eagerly seeking opportunities to apply and enhance my skills in real-world projects.</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Currently learning Next js.
-- 💼 &nbsp; Working on some laravel and react js projects.
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

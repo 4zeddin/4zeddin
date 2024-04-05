@@ -1,12 +1,12 @@
-<h2> Hey there! I'm Azeddin.</h2>
+<h1> Hey there! I'm Azeddin.</h1>
 
 <p>A dedicated software developer who is deeply passionate about my work.</p>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 <p>Pursuing my master in software engineering</p>
 
-<h3 align="left"> ⚙️ Languages and Tools:</h3>
+<h2 align="left"> ⚙️ Languages and Tools:</h2>
 
 ### Programming Languages:
 

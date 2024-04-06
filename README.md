@@ -1,4 +1,4 @@
-<h1> Hey there! I'm Azeddin.</h>
+<h1> Hey there! I'm Azeddin.</h1>
 
 <p>A dedicated software developer who is deeply passionate about my work.</p>
 

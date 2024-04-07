@@ -73,11 +73,7 @@
     <span style="margin-right: 10px;"></span><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 </p>
 
-
-
-
-<p align="left">
-    <h2> 🤝🏻 Connect with Me </h2>
-    <a href="https://www.linkedin.com/in/azeddine-ait-waalla-081207223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Azeddine%20Ait%20Waalla-blue?style=flat-square&logo=linkedin"></a>
+<h2> 🤝🏻 Connect with Me </h2>
+    <a href="https://www.linkedin.com/in/azeddine-ait-waalla-081207223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Azeddine%20Ait%20Waalla-blue? 
+    style=flat-square&logo=linkedin"></a>
     <a href="mailto:azeddinaitwaalla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azeddinaitwaalla@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>

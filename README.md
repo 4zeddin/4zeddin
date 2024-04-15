@@ -8,8 +8,9 @@
 
 <h2> 🤝🏻 Connect with Me </h2>
     
-    <p><a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"></a> Email: azeddinaitwaalla@gmail.com</p>
-<p><a href="https://discord.com"><img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord" alt="Discord"></a> Discord: 4zed</p>
+<p><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"> Email: azeddinaitwaalla@gmail.com</p>
+<p><img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord" alt="Discord"> Username: 4zed</p>
+
 
     
 

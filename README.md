@@ -1,14 +1,12 @@
-<h1> Hey there! I'm Azeddin.
-<p>A dedicated software developer who is deeply passionate about my work.</p></h1>
+<h1> Hey there! I'm Azeddin.</h1>
+<p>A dedicated software developer who is deeply passionate about my work.</p>
 
 <h2> 👨🏻‍💻 About Me </h2>
-
 <p>Pursuing my master in software engineering</p>
 
 <h2> 🤝🏻 Connect with Me </h2>
 <p>Email: azeddinaitwaalla@gmail.com</p>
 <p>Discord: 4zed</p>
-
 
 <h2 align="left"> ⚙️ Languages and Tools:</h2>
 

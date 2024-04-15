@@ -8,7 +8,7 @@
 
 <h2> 🤝🏻 Connect with Me </h2>
 <p>Email: azeddinaitwaalla@gmail.com</p>
-<p>Discord: 4zed/p>
+<p>Discord: 4zed</p>
 
 
 <h2 align="left"> ⚙️ Languages and Tools:</h2>

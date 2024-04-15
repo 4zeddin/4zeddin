@@ -7,8 +7,9 @@
 <p>Pursuing my master in software engineering</p>
 
 <h2> 🤝🏻 Connect with Me </h2>
-    <p>Emai: azeddinaitwaalla@gmail.com</p>
-    <p>Discord: 4zed</p>
+    [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord)](https://discord.com)
+
 <h2 align="left"> ⚙️ Languages and Tools:</h2>
 
 ### Programming Languages:

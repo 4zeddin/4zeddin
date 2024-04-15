@@ -7,12 +7,9 @@
 <p>Pursuing my master in software engineering</p>
 
 <h2> 🤝🏻 Connect with Me </h2>
-    
-<p><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail"> Email: azeddinaitwaalla@gmail.com</p>
-<p><img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord" alt="Discord"> Username: 4zed</p>
+<p><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"> Email: azeddinaitwaalla@gmail.com</p>
+<p><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord"> Username: 4zed</p>
 
-
-    
 
 <h2 align="left"> ⚙️ Languages and Tools:</h2>
 

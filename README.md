@@ -1,5 +1,5 @@
 <h1> Hey there! I'm Azeddin.</h1>
-<p>A dedicated software developer who is deeply passionate about my work.</p>
+<p></p>dedicated software developer who is deeply passionate about my work.</p>
 
 <h2> 👨🏻‍💻 About Me </h2>
 <p>Pursuing my master in software engineering</p>

@@ -2,7 +2,7 @@
 <p>I am a dedicated software developer who is deeply passionate about my work.</p>
 
 <h2> 👨🏻‍💻 About Me </h2>
-<p>Pursuing my master in software engineering</p>
+<p>I am a highly motivated and passionate junior Full Stack Developer, currently in the second year of a software development degree. With a professional Bachelor's degree in web and mobile development, I am versatile in IT and have a growing expertise in programming languages. I stay constantly updated with the latest technological trends and am seeking an opportunity to apply my skills in a professional environment, contributing to innovative projects while continuing to develop my abilities.</p>
 
 <h2> 🤝🏻 Connect with Me </h2>
 <p>Email: azeddinaitwaalla@gmail.com</p>

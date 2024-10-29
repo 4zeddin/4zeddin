@@ -30,8 +30,8 @@
     <span style="margin-right: 10px;"></span>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <span style="margin-right: 10px;"></span>
-        <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/JQuery-Logo.svg" alt="jquery" width="40" height="40"/> 
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
     </a>
 </p>
 

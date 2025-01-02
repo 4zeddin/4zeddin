@@ -59,12 +59,5 @@ I am a passionate and dedicated Full Stack Developer with a keen interest in cre
 
 ---
 
-## 🌟 Highlights
-- 💻 Expertise in creating robust full-stack web applications.
-- 🔍 Continuously learning and staying updated with the latest technologies.
-- 🎯 Driven by passion and a commitment to deliver exceptional results.
-
----
-
 ## 🛠 Projects
 Check out my [GitHub Repositories](https://github.com/4zeddin?tab=repositories) for more projects!

@@ -14,7 +14,7 @@ Portfolio : [Coming soon](#)
 
 - **Frontend:**
   
-  ![Frontend](https://skillicons.dev/icons?i=react,angular,livewire,js,ts,css,bootstrap,tailwind)
+  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,angular,css,bootstrap,tailwind)
   
 - **Backend:**
   
@@ -22,7 +22,7 @@ Portfolio : [Coming soon](#)
   
 - **Database:**
   
-  ![Frontend](https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb)
+  ![Frontend](https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,mongodb)
 
 - **Mobile:**
   

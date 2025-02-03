@@ -30,7 +30,7 @@ Portfolio : [Coming soon](#)
 
 - **Tools:**
   
-  ![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux,uml)
+  ![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux)
 
 ### 📫 How to reach me
 

@@ -14,7 +14,7 @@ Portfolio : [Coming soon](#)
 
 - **Frontend:**
   
-  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,angular,css,bootstrap,tailwind)
+  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,angular,css,tailwind,bootstrap)
   
 - **Backend:**
   

@@ -28,9 +28,9 @@ Portfolio : [Coming soon](#)
   
   ![Mobile](https://skillicons.dev/icons?i=flutter)
 
-- **Tools:**
+- **Others:**
   
-  ![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux)
+  ![Others](https://skillicons.dev/icons?i=git,github,postman,docker,linux)
 
 ### 📫 How to reach me
 

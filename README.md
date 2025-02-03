@@ -6,7 +6,7 @@ I am a highly motivated Full Stack Developer with a strong passion for building 
 
 ## 🤝 Connect with Me
 - **Email**: [azeddinaitwaalla@gmail.com](mailto:azeddinaitwaalla@gmail.com)
-- **Portfolio**: [Your Portfolio Link] *(optional)*
+- **Portfolio**: [Coming Soon] 
 
 ---
 

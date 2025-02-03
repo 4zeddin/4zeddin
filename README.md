@@ -28,9 +28,9 @@ Portfolio : [Coming soon](#)
   
   ![Mobile](https://skillicons.dev/icons?i=flutter)
 
-- **Version Control & Tools:**
+- **Tools:**
   
-  ![Version Control & Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux)
+  ![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux,uml)
 
 ### 📫 How to reach me
 

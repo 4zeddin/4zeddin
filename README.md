@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Azeddin.
 
-I am a highly motivated Full Stack Developer with a strong passion for building meaningful web and mobile applications that address real-world challenges.
+highly motivated Full Stack Developer with a strong passion for building meaningful web and mobile applications that address real-world challenges.
 
 ---
 

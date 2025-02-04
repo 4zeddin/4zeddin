@@ -6,9 +6,9 @@
 
 highly motivated Full Stack Developer with a strong passion for building meaningful web and mobile applications that address real world challenges.
 
-### 🌐 Portfolio
-
 Portfolio : [Coming soon](#)
+
+Feel free to connect with me at : [azeddin.ait.waalla@gmail.com](mailto:azeddin.ait.waalla)
 
 ### 🛠️ Tools I Have Used and Learned
 
@@ -31,10 +31,6 @@ Portfolio : [Coming soon](#)
 - **Others:**
   
   ![Others](https://skillicons.dev/icons?i=git,github,postman,docker,linux)
-
-### 📫 How to reach me
-
-Feel free to connect with me at : [azeddin.ait.waalla@gmail.com](mailto:azeddin.ait.waalla)
 
 ## 🔥 My Stats
 

@@ -38,7 +38,7 @@ Feel free to connect with me at : [azeddin.ait.waalla@gmail.com](mailto:azeddin.
 
 ## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YounessMouloudi&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4zeddin&layout=compact&theme=github_dark)
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0058ff&height=120&section=footer"/>

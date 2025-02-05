@@ -12,13 +12,17 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 
 ### 🛠️ Tools I Have Used and Learned
 
+- **Programming Languages:**
+
+  ![Frontend](https://skillicons.dev/icons?i=c,python)
+
 - **Frontend:**
   
   ![Frontend](https://skillicons.dev/icons?i=js,ts,react,angular,css,tailwind,bootstrap)
   
 - **Backend:**
   
-  ![Backend](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,python)
+  ![Backend](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express)
   
 - **Database:**
   

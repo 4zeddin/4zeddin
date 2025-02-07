@@ -6,7 +6,7 @@
 
 highly motivated Full Stack Developer with a strong passion for building meaningful web and mobile applications that address real world challenges.
 
-🌐 Portfolio : [Coming soon](#)
+🌐 Portfolio : [azeddin.vercel.app](https://azeddin.vercel.app/)
 
 📫 Feel free to connect with me at : [azeddin.ait.waalla@gmail.com](mailto:azeddin.ait.waalla)
 

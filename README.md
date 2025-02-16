@@ -18,7 +18,7 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 
 - **Frontend:**
   
-  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,angular,css,tailwind,bootstrap)
+  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,css,tailwind,bootstrap)
   
 - **Backend:**
   

@@ -18,7 +18,7 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 
 - **Frontend:**
   
-  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,css,tailwind,bootstrap)
+  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,flutter,css,tailwind,bootstrap)
   
 - **Backend:**
   
@@ -27,10 +27,6 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 - **Database:**
   
   ![Frontend](https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,mongodb)
-
-- **Mobile:**
-  
-  ![Mobile](https://skillicons.dev/icons?i=flutter)
 
 - **Others:**
   

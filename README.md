@@ -30,7 +30,7 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 
 - **Others:**
   
-  ![Others](https://skillicons.dev/icons?i=git,github,postman,docker,linux)
+  ![Others](https://skillicons.dev/icons?i=git,github,postman,linux,jest)
 
 ## 🔥 My Stats
 

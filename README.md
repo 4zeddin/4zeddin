@@ -22,7 +22,7 @@ highly motivated Full Stack Developer with a strong passion for building meaning
   
 - **Backend:**
   
-  ![Backend](https://skillicons.dev/icons?i=php,laravel,symfony,nodejs)
+  ![Backend](https://skillicons.dev/icons?i=php,laravel)
   
 - **Database:**
   
@@ -30,7 +30,7 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 
 - **Others:**
   
-  ![Others](https://skillicons.dev/icons?i=git,github,postman,linux,jest)
+  ![Others](https://skillicons.dev/icons?i=git,github,postman,linux)
 
 ## 🔥 My Stats
 

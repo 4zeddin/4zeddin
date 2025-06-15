@@ -26,7 +26,7 @@ highly motivated Full Stack Developer with a strong passion for building meaning
 
 - **CMS:**
   
-  ![Backend](https://skillicons.dev/icons?i=wordpress,statamic)
+  ![Backend](https://skillicons.dev/icons?i=wordpress)
   
 - **Database:**
   

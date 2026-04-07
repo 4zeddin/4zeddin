@@ -8,12 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm Azeddine, a Software Developer who enjoys building practical solutions that solve real-world problems.
-
----
-
 ## ⚡ Tech Stack
 
 ### 🧠 Programming

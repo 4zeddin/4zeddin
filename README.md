@@ -28,29 +28,17 @@ I'm Azeddine, a Software Developer who enjoys building practical solutions that 
 
 ## ⚡ Tech Stack
 
-### 🧠 Programming
 ![Programming](https://skillicons.dev/icons?i=c,python)
-
-### 🎨 Frontend
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react,next,flutter,css,tailwind)
-
-### 🛠 Backend
 ![Backend](https://skillicons.dev/icons?i=java,php,laravel)
-
-### 🧩 CMS
 ![CMS](https://skillicons.dev/icons?i=wordpress)
-
-### ⚙️ Tools & Environment
-![Tools](https://skillicons.dev/icons?i=claude,cursor,copilot,git,github,postman,linux)
+![Tools](https://skillicons.dev/icons?i=git,docker,postman,linux)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4zeddin&layout=compact&theme=github_dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4zeddin&layout=compact&theme=github_dark)
 
 ---
 

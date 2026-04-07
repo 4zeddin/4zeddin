@@ -2,43 +2,57 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0058ff&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0058ff&size=35&center=true&vCenter=true&width=1000&lines=👋+Hey,+I'm+Azeddine;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0058ff&size=32&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Azeddine;Full+Stack+Developer;Building+real+world+apps;Coding+with+AI+⚡"/>
+</p>
 
-highly motivated Full Stack Developer with a strong passion for building meaningful web and mobile applications that address real world challenges.
+---
 
-🌐 Portfolio : [azeddin.vercel.app](https://azeddin.vercel.app/)
+## 👨‍💻 About Me
 
-📫 Feel free to connect with me at : [azeddin.ait.waalla@gmail.com](mailto:azeddin.ait.waalla)
+I'm Azeddine, a Software Developer who enjoys building practical solutions that solve real-world problems.
 
-### 🛠️ Tools I Have Used and Learned
+---
 
-- **Programming Languages:**
+## 🌐 Portfolio
 
-  ![Frontend](https://skillicons.dev/icons?i=c,python)
+👉 https://azeddin.vercel.app/
 
-- **Frontend:**
-  
-  ![Frontend](https://skillicons.dev/icons?i=js,ts,react,flutter,css,tailwind,bootstrap)
-  
-- **Backend:**
-  
-  ![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs)
+---
 
-- **CMS:**
-  
-  ![Backend](https://skillicons.dev/icons?i=wordpress)
-  
-- **Database:**
-  
-  ![Frontend](https://skillicons.dev/icons?i=mysql,postgresql,redis,firebase,mongodb)
+## 📫 Contact
 
-- **Others:**
-  
-  ![Others](https://skillicons.dev/icons?i=git,github,postman,linux)
+📧 azeddin.ait.waalla@gmail.com
 
-## 🔥 My Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4zeddin&layout=compact&theme=github_dark)
+## ⚡ Tech Stack
+
+### 🧠 Programming
+![Programming](https://skillicons.dev/icons?i=c,python)
+
+### 🎨 Frontend
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,next,flutter,css,tailwind)
+
+### 🛠 Backend
+![Backend](https://skillicons.dev/icons?i=java,php,laravel)
+
+### 🧩 CMS
+![CMS](https://skillicons.dev/icons?i=wordpress)
+
+### ⚙️ Tools & Environment
+![Tools](https://skillicons.dev/icons?i=claude,cursor,copilot,git,github,postman,linux)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4zeddin&layout=compact&theme=github_dark" />
+</p>
+
+---
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0058ff&height=120&section=footer"/>

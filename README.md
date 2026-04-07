@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0058ff&size=32&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Azeddine;Full+Stack+Developer;Building+real+world+apps;Coding+with+AI+⚡"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0058ff&size=32&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Azeddine;Software+Developer;Building+real+world+apps;"/>
 </p>
 
 ---
@@ -42,12 +42,6 @@ I'm Azeddine, a Software Developer who enjoys building practical solutions that 
 
 ### ⚙️ Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=git,docker,postman,linux)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4zeddin&show_icons=true&count_private=true&theme=algolia) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4zeddin&layout=compact&theme=github_dark)
 
 ---
 

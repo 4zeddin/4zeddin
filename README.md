@@ -28,10 +28,19 @@ I'm Azeddine, a Software Developer who enjoys building practical solutions that 
 
 ## ⚡ Tech Stack
 
+### 🧠 Programming
 ![Programming](https://skillicons.dev/icons?i=c,python)
+
+### 🎨 Frontend
 ![Frontend](https://skillicons.dev/icons?i=js,ts,react,next,flutter,css,tailwind)
-![Backend](https://skillicons.dev/icons?i=java,php,laravel)
+
+### 🛠 Backend
+![Backend](https://skillicons.dev/icons?i=java,php,laravel,)
+
+### 🧩 CMS
 ![CMS](https://skillicons.dev/icons?i=wordpress)
+
+### ⚙️ Tools & Environment
 ![Tools](https://skillicons.dev/icons?i=git,docker,postman,linux)
 
 ---

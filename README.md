@@ -14,18 +14,6 @@ I'm Azeddine, a Software Developer who enjoys building practical solutions that 
 
 ---
 
-## 🌐 Portfolio
-
-👉 https://azeddin.vercel.app/
-
----
-
-## 📫 Contact
-
-📧 azeddin.ait.waalla@gmail.com
-
----
-
 ## ⚡ Tech Stack
 
 ### 🧠 Programming
